@@ -21,7 +21,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey:"AIzaSyCoCnw_BqdekS9pd04Hd5cXA88pfjWVsQg",
+    apiKey:"Your_Api_key",
     appId:  "virtualhospital-59bed",
     messagingSenderId:  "571383792129",
     projectId:"virtualhospital-59bed",
@@ -30,7 +30,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey:"AIzaSyCoCnw_BqdekS9pd04Hd5cXA88pfjWVsQg",
+    apiKey:"your_api_key",
     appId:"1:571383792129:web:3213078300fa5bd8027600",
     messagingSenderId: '571383792129',
     projectId:"virtualhospital-59bed",
